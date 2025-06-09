@@ -25,7 +25,7 @@ Bu proje, **makine öğrenimi** kullanarak kullanıcıdan alınan bilgilerle **k
 - **Model**:  
   - Girdi katmanı  
   - 2 gizli katman (`relu` aktivasyonu)  
-  - Çıkış katmanı (`softmax`)  
+  - Çıkış katmanı (`sigmoid`)  
 - **Kayıp fonksiyonu**: Binary Crossentropy  
 - **Optimizer**: Adam
 
